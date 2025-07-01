@@ -3,15 +3,51 @@
 Aplicativo mobile desenvolvido em Flutter para ajudar usuários (principalmente idosos) a controlar seus medicamentos, com funcionalidades de cadastro, edição, exclusão, marcação de medicamentos tomados, e armazenamento local dos dados.
 
 
-## Getting Started
+Funcionalidades
+Cadastro de medicamentos com nome, dosagem e horário de uso
 
-This project is a starting point for a Flutter application.
+Listagem dos medicamentos cadastrados
 
-A few resources to get you started if this is your first Flutter project:
+Marcar medicamento como "Tomado"
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Editar e excluir medicamentos
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dados salvos localmente para persistência mesmo após fechar o app
+
+Interface simples e amigável para idosos
+
+Tecnologias
+Flutter
+
+Dart
+
+Shared Preferences (para salvar dados localmente)
+
+Como rodar o projeto
+Clone o repositório:
+
+bash
+Copiar
+Editar
+git clone https://github.com/seuUsuario/controle_medicamentos.git
+Entre na pasta do projeto:
+
+bash
+Copiar
+Editar
+cd controle_medicamentos
+Instale as dependências:
+
+bash
+Copiar
+Editar
+flutter pub get
+Rode o aplicativo:
+
+bash
+Copiar
+Editar
+flutter run
+
+Autor
+Eduardo Henrique Souza dos Santos
