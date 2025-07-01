@@ -1,6 +1,7 @@
 # controle_medicamentos
 
-A new Flutter project.
+Aplicativo mobile desenvolvido em Flutter para ajudar usuários (principalmente idosos) a controlar seus medicamentos, com funcionalidades de cadastro, edição, exclusão, marcação de medicamentos tomados, e armazenamento local dos dados.
+
 
 ## Getting Started
 
